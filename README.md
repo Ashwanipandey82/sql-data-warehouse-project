@@ -1,5 +1,3 @@
-<img width="497" height="186" alt="image" src="https://github.com/user-attachments/assets/6849b966-23db-403f-be13-2c3e54506747" /># Data Warehouse and Analytics Project
-
 Welcome to my Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a complete data warehousing and analytics solution, from ingestion to reporting. It’s designed as a portfolio project that highlights data engineering and analytics best practices.
 
